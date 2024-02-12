@@ -1,0 +1,19 @@
+- **Description**: This C++ program is a simple bank account management system that allows users to create, delete, deposit, withdraw, and inquire about bank accounts.
+- **Main File**: `BankMain.cpp`
+- **Supporting Files**:
+  - `Account.cpp`
+  - `Account.h`
+  - `AccountHandler.cpp`
+  - `AccountHandler.h`
+  - `BankCommon.h`
+  - `HighCreditAccount.cpp`
+  - `HighCreditAccount.h`
+  - `SavingAccount.cpp`
+  - `SavingAccount.h`
+- **Dependencies**: C++ standard library
+- **Usage**: Run the program and follow the on-screen menu to interact with the bank account management system.
+- **Execution**:
+  - The program starts by showing a menu with options for creating, deleting, depositing, withdrawing, and inquiring about accounts.
+  - The user can select an option by entering the corresponding number.
+  - The program will then perform the selected operation accordingly.
+  
